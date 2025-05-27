@@ -2,16 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá! Me chamo Eber de Melo Rodrigues, sou Técnico em Análise e Desenvolvimento de Sistemas formado pelo Senac-RS.
-Tenho experiência com desenvolvimento backend e frontend, utilizando principalmente a seguinte stack:
-
-<strong>Node.js | Express | Prisma | MySQL | MongoDB | React | Java | HTML | CSS | JavaScript</strong>
-
-No momento, estou focado em desenvolver projetos próprios, aprimorar minhas habilidades como desenvolvedor full stack e atender clientes com soluções personalizadas de software.
-Estou em constante aprendizado e aberto a oportunidades de colaboração e desenvolvimento profissional.
-</p>
-
 <p align="left">
 💻 Linguagens
 JavaScript · TypeScript · Java · HTML · CSS · SQL · Bash · JSON · Markdown
