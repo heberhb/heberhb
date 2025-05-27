@@ -25,16 +25,6 @@ Visual Studio Code · Android Studio · Git · GitHub · Postman · Figma · Ren
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo:
-Ficou interessado(a) em colaborar ou quer trocar uma ideia sobre tecnologia?
-📧 Me chame no e-mail: Heber20014@gmail.com
-Ou pelo WhatsApp: (33) 99844-6589 (adicione o número real se quiser)
-💬 Estou sempre aberto a novos projetos, parcerias e oportunidades!
-
-⤵️ Vamos conversar! 😊
-</p>
-
-<p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=heber20014@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
